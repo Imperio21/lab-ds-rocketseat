@@ -5,7 +5,7 @@ import { expect } from '@storybook/jest'
 
 import { rest } from 'msw'
 
-import { SignIn } from './Signin'
+import { SignIn } from './SignIn'
 
 export default {
   title: 'Pages/Sign in',
